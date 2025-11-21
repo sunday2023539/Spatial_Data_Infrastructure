@@ -61,5 +61,5 @@ The analysis highlighted significant shifts in the Austrian labor market:
 **Conclusion**
 
 This study successfully integrated employment and geospatial data within an SDI framework to provide a comprehensive understanding of labor market dynamics in Austria. The interactive dashboard is a valuable tool for policymakers and businesses, supporting data-driven decision-making for targeted employment policies and workforce development programs.
-![Alt Text for Image](image/Dashboard.png)
+
 
