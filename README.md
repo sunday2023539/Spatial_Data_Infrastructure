@@ -54,7 +54,7 @@ The analysis highlighted significant shifts in the Austrian labor market:
 
 **Highest Growth:** Oberösterreich, Wien, and Steiermark.
 
-**Lowest Growth:** Kärnten and Burgenland.
+**Lowest Growth:** Kärnten, Voralberg and Burgenland.
 
 **Visualization:** An interactive dashboard was developed using ArcGIS Dashboard to visualize employment trends and workforce distribution.
 
